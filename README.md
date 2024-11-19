@@ -1,6 +1,6 @@
 # Proyecto: JSON-Server
 
-Este proyecto es útil si no existe una fake api adecuada para probar nuestro frontend.
+Este proyecto es útil para probar un frontend.
 
 ## Paquetes de Node JS
 
