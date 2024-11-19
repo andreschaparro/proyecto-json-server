@@ -5,3 +5,5 @@ Este proyecto es útil si no existe una fake api adecuada para probar nuestro fr
 ## Paquetes de Node JS
 
 - [json-server](https://www.npmjs.com/package/json-server).
+
+Autor: Ing. Andres Chaparro
