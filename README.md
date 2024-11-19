@@ -1,4 +1,4 @@
-# Proyecto: JSON-Server
+# Proyecto: JSON-Server con Node JS
 
 Este proyecto es útil para probar un frontend.
 
