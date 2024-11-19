@@ -1,0 +1,54 @@
+{
+  "profesores": [
+    {
+      "nombre": "Sergie",
+      "apellido": "Code",
+      "materias": [
+        {
+          "nombre": "Node JS"
+        },
+        {
+          "nombre": "React"
+        },
+        {
+          "nombre": "Javacript"
+        }
+      ],
+      "id": "6577"
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "Nicolás",
+      "apellido": "Peréz",
+      "promedio": 8.2,
+      "id": "bca1"
+    },
+    {
+      "nombre": "María",
+      "apellido": "González",
+      "promedio": 10,
+      "id": "8ec3"
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "Node JS",
+      "duracion": 6,
+      "dificultad": "intermedia",
+      "id": "a4fd"
+    },
+    {
+      "nombre": "React",
+      "duracion": 8,
+      "dificultad": "intermedia",
+      "id": "4005"
+    },
+    {
+      "nombre": "Javacript",
+      "duracion": 10,
+      "dificultad": "alta",
+      "id": "c123"
+    }
+  ]
+}
